@@ -1,4 +1,7 @@
 numpy==1.16.4
-torch==1.2.0
+torch==1.6.0
 transformers==2.3.0
 python-telegram-bot==12.3.0
+click
+tqdm
+flask
